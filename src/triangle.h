@@ -1,3 +1,5 @@
+// Triangle data structure and validation functions
+
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
 

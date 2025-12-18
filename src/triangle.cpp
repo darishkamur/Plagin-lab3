@@ -1,3 +1,6 @@
+// Triangle logic implementation
+// Checks triangle validity and calculates perimeter
+
 #include "triangle.h"
 
 bool isValidTriangle(const Triangle& t) {

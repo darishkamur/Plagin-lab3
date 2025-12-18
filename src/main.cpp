@@ -1,3 +1,6 @@
+// Main program file
+// Parses command-line arguments and works with triangle data
+
 #include <iostream>
 #include <string>
 #include "triangle.h"
